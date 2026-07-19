@@ -7,5 +7,6 @@ fn main() {
     println!("Hello, Vikki");
     println!("vikas singh");
     bug_fix::bug();
-    test::test_one()
+    test::test_one();
+    println!("feature added")
 }
